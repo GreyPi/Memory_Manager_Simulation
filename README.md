@@ -1,6 +1,7 @@
 # Class Project
 
 **Decription:**
+
   In this project I write a simulation that explores the effects of limited
   memory and memory management policies. The simulator will read policy information and the
   characteristics of the workload from input files and then will simulate the execution of the
