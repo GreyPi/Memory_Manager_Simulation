@@ -1,6 +1,6 @@
 # Class Project
 
-**Decription:**
+**Description:**
 
   In this project I write a simulation that explores the effects of limited
   memory and memory management policies. The simulator will read policy information and the
